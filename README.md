@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @urri34
 - 🌱 I’m allways trying to learn
-- 💞️ I’m looking to collaborate
+- 💞️ Now focused on Home Assistant & Stable Diffusion
 - 📫 How to reach me urri34@gmail.com
